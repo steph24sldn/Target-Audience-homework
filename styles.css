@@ -1,12 +1,41 @@
 #dg{
     background-color: aqua;
-    width: 50%;
-    height: 300px;
-    float: left;
-}
-
-img{
     width: 100%;
     height: 300px;
-    
+}
+#age{
+    background-color: darkred;
+    width: 100%;
+    height: 300px;
+}
+#gender{
+    background-color: deeppink;
+    width: 100%;
+    height: 300px;
+}
+#occupation{
+    background-color: sandybrown;
+    width: 100%;
+    height: 300px;
+}
+#onlinef{
+    background-color: green;
+    width: 100%;
+    height: 300px;
+}
+#ohabits{
+    background-color: midnightblue;
+    color: white;
+    width: 100%;
+    height: 300px;
+}
+#db{
+    background-color: pink;
+    width: 100%;
+    height: 300px;
+}
+#wtl{
+    background-color: orange;
+    width: 100%;
+    height: 300px;
 }
